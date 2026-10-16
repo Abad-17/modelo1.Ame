@@ -1,2 +1,2 @@
-# practica1_fdp
-Primer documento 
+# modelo 1 
+Streamlit para crear app de america 
